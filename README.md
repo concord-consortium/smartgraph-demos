@@ -7,7 +7,7 @@ Experiments in lightweight smartgraphs by the people working on the
 [SmartGraphs](http://smartgraphs.concord.org/) project at the [Concord Consortium](http://www.concord.org).
 
 The source code for the SproutCore demos is located here:
-[http://github.com/rklancer/Smartgraphs](http://github.com/rklancer/Smartgraphs).
+[http://github.com/concord-consortium/Smartgraphs](http://github.com/concord-consortium/Smartgraphs).
 
 
 ## To run this locally on a Mac,
